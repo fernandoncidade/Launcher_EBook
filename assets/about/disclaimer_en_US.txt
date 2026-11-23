@@ -1,0 +1,10 @@
+Launcher EBook
+Version: 2026.11.22.0
+
+Disclaimer
+
+This application is provided as a local tool to list e-book and document files and open those files with applications chosen by the user.
+
+The project does not guarantee compatibility with every format, reader, operating system association, or runtime environment. The user is responsible for choosing trustworthy applications to open their files.
+
+The application does not intentionally modify the content of listed files. Even so, users should keep backups of important documents and verify the origin of external programs they use.

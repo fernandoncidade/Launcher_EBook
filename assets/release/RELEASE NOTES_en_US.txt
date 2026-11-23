@@ -1,0 +1,54 @@
+RELEASE NOTES: Version 2026.11.22.0
+Date: November 22, 2026
+
+General Summary
+This update delivers a comprehensive internal modernization of the application's base platform, preparation tools, auxiliary maintenance utilities, and Windows installers. The changes strengthen stability, compatibility with Windows 10 and Windows 11, and quality control across all distributed editions, while keeping the user experience completely unchanged.
+
+New Features, Adjustments, and Improvements
+1. Core platform and language modernization
+- The system's core operating platform has been upgraded from edition 6.11.1 to edition 6.12.0, bringing improved stability, modern system integration, and long-term compatibility with Windows 10 and Windows 11.
+- The application and its supporting utilities now adopt a newer generation of the underlying programming language standard along with updated operating system support kits.
+
+2. Expanded dual-edition support for auxiliary maintenance tools
+- Both the main application and the auxiliary maintenance tools (used to prepare application translations and manage version information) now work seamlessly across both supported Windows build environments.
+- Previously limited to a single environment, the auxiliary maintenance tools now offer the same flexibility, consistency, and updated foundation as the main application, keeping each edition cleanly separated.
+
+3. Strict isolation and verification during product preparation
+- Each distributed edition of the application and its auxiliary tools is now prepared in an isolated environment, preventing supporting components from different editions from being mixed together.
+- Automatic validation checks have been added to the final product preparation process to confirm that the expected platform version and all required supporting components are properly included before delivery.
+- Workspace automation, quick-run tasks, and maintenance cleanup routines have been updated to cover both supported editions cleanly and remove obsolete environment references.
+
+4. Improved installers and runtime preparation
+- The Windows installers have been modernized to use the newest generation of the installer creation tool and now perform automatic integrity checks before generating installation packages.
+- Each installer ensures that the proper supporting system components required for its respective edition are accurately bundled and installed, reducing startup issues on fresh Windows installations.
+
+Important Notes:
+- This is an internal structural, preparation, and packaging modernization; it does not change screens, menus, shortcuts, saved preferences, language selections, or user library files.
+- All existing features continue working identically, now backed by a newer platform generation and stricter quality checks in every distributed edition.
+
+========================================================================
+
+RELEASE NOTES: Version 2026.7.20.0
+Date: July 20, 2026
+
+General Summary
+This update focuses on the structural modernization of the environment and the update of the system's base platforms. The changes aim to ensure greater stability, compatibility, and alignment with the latest technologies, acting invisibly to the end user, but ensuring that the product is built on a more solid and updated foundation.
+
+New Features, Adjustments, and Improvements
+1. Structural platform update
+- The system now uses a more recent version of its core operating platform, having been updated from edition 6.11.0 to 6.11.1.
+- This change affects and benefits all integrated processes, ensuring that the application communicates with more modern libraries.
+
+2. Modernization of build tools
+- The support tools and packages, responsible for interpreting and building the application behind the scenes, have been updated to their latest editions.
+- The support and integration packages with the operating system (development kits) have been upgraded to more current versions, keeping up with market improvements.
+- The visual assembly structure now also points to newer editions of the build engines, optimizing the product preparation process.
+
+3. Adjustment in routines and environment integration
+- The general preferences of the workspace have been rigorously adjusted to reflect the newly installed platform and the new system paths.
+- All internal instructions responsible for automated tasks (such as preparing, running, or deploying the system and its add-ons) have been redirected to work in perfect harmony with the new version.
+- The organization and consistency of the final product preparation routines have become more precise, avoiding the use of obsolete versions.
+
+Important Notes:
+- This is an internal structure update and does not change visual tasks, data, or preferences actively saved by the user.
+- The system's base requirements are more modern, ensuring that future releases maintain a high technological standard of compatibility and security.

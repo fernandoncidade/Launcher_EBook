@@ -1,0 +1,27 @@
+* text=auto eol=lf
+
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.ps1 text eol=crlf
+*.sln text eol=crlf
+*.vcxproj text eol=crlf
+*.vcxproj.filters text eol=crlf
+
+*.c text diff=c
+*.cpp text diff=cpp
+*.h text diff=cpp
+*.hpp text diff=cpp
+*.cmake text
+CMakeLists.txt text
+CMakePresets.json text eol=lf
+.vscode/*.json text eol=lf
+
+*.7z binary
+*.dll binary
+*.exe binary
+*.ico binary
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.pdf binary
+*.zip binary

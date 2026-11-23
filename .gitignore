@@ -1,0 +1,10 @@
+/.vscode/
+/.vscode
+/build/
+/build
+/repo/
+/repo
+
+/mocks/CMakePresets.json
+/mocks/limpar_build_qt6_regeneravel.ps1
+/CMakePresets.json

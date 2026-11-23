@@ -1,0 +1,10 @@
+Launcher EBook
+Versão: 2026.11.22.0
+
+Termo de Isenção de Responsabilidade
+
+Este aplicativo é fornecido como uma ferramenta local para listar arquivos de e-book e documentos e abrir esses arquivos com aplicativos escolhidos pelo usuário.
+
+O projeto não garante compatibilidade com todos os formatos, leitores, associações do sistema operacional ou ambientes de execução. O usuário é responsável por escolher aplicativos confiáveis para abrir seus arquivos.
+
+O aplicativo não altera intencionalmente o conteúdo dos arquivos listados. Ainda assim, recomenda-se manter cópias de segurança dos documentos importantes e verificar a origem dos programas externos utilizados.

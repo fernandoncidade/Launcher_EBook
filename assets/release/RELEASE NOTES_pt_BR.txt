@@ -1,0 +1,54 @@
+NOTAS DE LANÇAMENTO: Versão 2026.11.22.0
+Data: 22 de novembro de 2026
+
+Resumo Geral
+Esta atualização traz uma modernização interna abrangente da plataforma base do aplicativo, das ferramentas de preparação, dos utilitários auxiliares de manutenção e dos instaladores para Windows. As mudanças reforçam a estabilidade, a compatibilidade com Windows 10 e Windows 11 e o controle de qualidade em todas as edições distribuídas, mantendo a experiência de uso completamente inalterada.
+
+Novidades, Ajustes e Melhorias
+1. Modernização da plataforma base e do padrão de construção
+- A plataforma base de funcionamento do sistema foi atualizada da edição 6.11.1 para a edição 6.12.0, trazendo maior estabilidade, integração moderna com o sistema e compatibilidade contínua com Windows 10 e Windows 11.
+- O aplicativo e seus utilitários de apoio passaram a adotar uma geração mais recente da linguagem de construção subjacente, juntamente com pacotes atualizados de suporte ao sistema operacional.
+
+2. Ampliação do suporte em edição dupla para as ferramentas auxiliares de manutenção
+- Tanto o aplicativo principal quanto as ferramentas auxiliares de manutenção (utilizadas para preparar traduções do aplicativo e gerenciar informações de versão) agora funcionam de maneira uniforme nos dois ambientes suportados no Windows.
+- Antes restritas a um único ambiente, as ferramentas auxiliares de manutenção passam a oferecer a mesma flexibilidade, consistência e base atualizada do aplicativo principal, mantendo cada edição devidamente separada.
+
+3. Isolamento rigoroso e verificação na preparação do produto
+- Cada edição distribuída do aplicativo e de suas ferramentas auxiliares passa a ser preparada em um ambiente isolado, evitando a mistura de componentes de apoio entre edições diferentes.
+- Foram adicionadas verificações automáticas de validação ao processo final de preparação do produto para confirmar que a versão esperada da plataforma e todos os componentes de apoio necessários estão corretamente incluídos antes da entrega.
+- A automação do espaço de trabalho, as tarefas de execução rápida e as rotinas de limpeza de manutenção foram atualizadas para atender às duas edições suportadas de forma limpa e remover referências obsoletas de ambiente.
+
+4. Aperfeiçoamento dos instaladores e da preparação de execução
+- Os instaladores para Windows foram modernizados para utilizar a geração mais recente da ferramenta de criação de instaladores e passaram a realizar verificações automáticas de integridade antes de gerar os pacotes de instalação.
+- Cada instalador garante que os componentes de apoio do sistema exigidos pela respectiva edição sejam empacotados e instalados com precisão, reduzindo falhas de inicialização em instalações novas do Windows.
+
+Observações Importantes:
+- Trata-se de uma modernização interna de estrutura, preparação e empacotamento; ela não altera telas, menus, atalhos, preferências salvas, seleções de idioma ou arquivos da biblioteca do usuário.
+- Todas as funcionalidades existentes continuam operando de forma idêntica, agora apoiadas por uma geração mais nova da plataforma e por controles de qualidade mais rigorosos em cada edição distribuída.
+
+========================================================================
+
+NOTAS DE LANÇAMENTO: Versão 2026.7.20.0
+Data: 20 de julho de 2026
+
+Resumo Geral
+Esta atualização concentra-se na modernização estrutural do ambiente e na atualização das plataformas de base do sistema. As alterações visam garantir maior estabilidade, compatibilidade e alinhamento com as tecnologias mais recentes, atuando de forma invisível para o usuário final, mas garantindo que o produto seja construído sobre uma fundação mais sólida e atualizada.
+
+Novidades, Ajustes e Melhorias
+1. Atualização da plataforma estrutural
+- O sistema passou a utilizar uma versão mais recente da sua plataforma base de funcionamento, sendo atualizada da edição 6.11.0 para a 6.11.1.
+- Essa mudança afeta e beneficia todos os processos integrados, garantindo que o aplicativo se comunique com bibliotecas mais modernas.
+
+2. Modernização das ferramentas de construção
+- As ferramentas e pacotes de apoio, responsáveis por interpretar e construir o aplicativo nos bastidores, foram atualizados para suas edições mais recentes.
+- Os pacotes de suporte e integração com o sistema operacional (kits de desenvolvimento) foram elevados para versões mais atuais, acompanhando as melhorias do mercado.
+- A estrutura de montagem visual também passou a apontar para edições mais novas dos motores de construção, otimizando o processo de preparação do produto.
+
+3. Ajuste nas rotinas e integração do ambiente
+- As preferências gerais do ambiente de trabalho foram rigorosamente ajustadas para refletir a nova plataforma instalada e os novos caminhos do sistema.
+- Todas as instruções internas responsáveis pelas tarefas automáticas (como preparar, executar ou implantar o sistema e seus complementos) foram redirecionadas para trabalhar em perfeita sintonia com a nova versão.
+- A organização e a consistência das rotinas de preparação do produto final ficaram mais precisas, evitando o uso de versões obsoletas.
+
+Observações Importantes:
+- Esta é uma atualização de estrutura interna e não altera as tarefas visuais, os dados ou as preferências salvas ativamente pelo usuário.
+- Os requisitos de base do sistema estão mais modernos, garantindo que as próximas entregas mantenham um alto padrão tecnológico de compatibilidade e segurança.

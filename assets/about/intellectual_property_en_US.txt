@@ -1,0 +1,10 @@
+Launcher EBook
+Version: 2026.11.22.0
+
+Intellectual Property
+
+This application, its source code, visual organization, auxiliary texts, and graphic resources belong to their respective authors and contributors.
+
+Third-party names, file formats, external applications, and libraries mentioned or detected by the system belong to their respective owners. This project does not claim ownership over trademarks, e-book readers, operating system tools, or third-party libraries.
+
+The icon and visual resources distributed with this project should only be used as authorized by the project owner.
